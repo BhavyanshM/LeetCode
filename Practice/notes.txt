@@ -32,3 +32,4 @@ Python Data Structures
 * Tricks:
     - Try out multiple test cases before attempting to arrive at a solution
     - If there's a pattern emerging in test cases, exploit it rather than silo the problem into a category
+    - Be careful with pointers in linked lists, trees and graphs. They should be exactly correct. Practice
